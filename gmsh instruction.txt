@@ -1,0 +1,11 @@
+Run GMSH
+
+Load "trapezium_trans.geo"
+
+Select Mesh>2d
+
+File>Save Mesh
+
+
+
+Alternatively rename trapezium_trans.txt to trapezium_trans.msh 
